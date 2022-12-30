@@ -1,7 +1,7 @@
 Hey, 👋 My name is Suraj Gupta
 ============================
 
-Web Developer
+A Learning Developer
 -------------
 
 * 🌍  I'm from India
