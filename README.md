@@ -4,7 +4,7 @@ Hey, 👋 My name is Suraj Gupta
 Web Developer
 -------------
 
-* 🌍  I'm based in India
+* 🌍  I'm from India
 * 🧠  I'm learning React
 
 ### Skills
