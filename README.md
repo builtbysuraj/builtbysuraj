@@ -3,10 +3,8 @@ Hey, 👋 My name is Suraj Gupta
 
 A Learning Developer
 -------------
-
-* 🌍  I'm from India
-* 🧠  I'm learning React
-
+<!-- * 🧠  I'm learning React
+ -->
 ### Skills
 
 <p align="left"> 
