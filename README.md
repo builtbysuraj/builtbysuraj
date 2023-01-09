@@ -1,7 +1,7 @@
 Hey, 👋 My name is Suraj Gupta
 ============================
 
-A Learning Developer
+Recent CS graduate with a focus in React.js, UI, and Web Apps
 -------------
 <!-- * 🧠  I'm learning React
  -->
