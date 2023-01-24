@@ -16,3 +16,9 @@ Recent CS graduate with a focus in React.js, UI, and Web Apps
 <a href="https://tryhackme.com/p/ctfplayerhere" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/77146598/210207370-7a4bbd0d-ba47-4043-b825-63015067b9a6.svg" width="40" height="32" /></a>
 <a href="https://www.github.com/builtbysuraj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="32" /></a> 
 </p>
+
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbysuraj&show_icons=true&theme=dark&locale=en&layout=compact" alt="builtbysuraj" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbysuraj&show_icons=true&locale=en&layout=compact" alt="builtbysuraj" /></p> -->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbysuraj&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="builtbysuraj" /></p>
