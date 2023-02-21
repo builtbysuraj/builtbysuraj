@@ -21,5 +21,5 @@ Recent CS graduate with a focus in React.js, UI, and Web Apps
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbysuraj&show_icons=true&locale=en&layout=compact" alt="builtbysuraj" /></p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbysuraj&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="builtbysuraj" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbysuraj&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="builtbysuraj" /></p> -->
 
