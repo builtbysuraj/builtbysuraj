@@ -1,7 +1,7 @@
 Hey, 👋 My name is Suraj Gupta
 ============================
 
-Recent CS graduate with a focus in React.js, UI, and Web Apps
+<!-- Recent CS graduate with a focus in React.js, UI, and Web Apps -->
 -------------
 ### Skills
 
