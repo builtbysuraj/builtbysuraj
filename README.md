@@ -22,19 +22,8 @@ Hey, 👋 My name is Suraj Gupta
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbysuraj&show_icons=true&locale=en&layout=compact" alt="builtbysuraj" /></p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbysuraj&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="builtbysuraj" /></p>
-
-
-
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbysuraj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=cobalt&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbysuraj&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=cobalt&hide_border=false&order=2" height="155" alt="languages graph"  />
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/builtbysuraj/count.svg?"  />
-</div>
-
-### -->
