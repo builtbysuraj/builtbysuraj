@@ -23,10 +23,6 @@
 <a href="https://www.github.com/builtbysuraj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="32" /></a> 
 </p>
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbysuraj&show_icons=true&theme=dark&locale=en&layout=compact" alt="builtbysuraj" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbysuraj&show_icons=true&locale=en&layout=compact" alt="builtbysuraj" /></p> -->
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbysuraj&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=cobalt&hide_border=false&order=2" height="155" alt="languages graph"  />
 </div>
