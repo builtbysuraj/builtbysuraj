@@ -17,7 +17,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  
 </p>
-![](https://komarev.com/ghpvc/?username=builtbysuraj&style=for-the-badge) 
+<!-- ![](https://komarev.com/ghpvc/?username=builtbysuraj&style=for-the-badge)  -->
 <p style="background-color: #1c1917"> 
 <a href="https://www.linkedin.com/in/builtbysuraj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="32" /></a> <a href="https://www.twitter.com/builtbysuraj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="32" /></a>
 <a href="https://tryhackme.com/p/ctfplayerhere" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/77146598/210207370-7a4bbd0d-ba47-4043-b825-63015067b9a6.svg" width="40" height="32" /></a>
