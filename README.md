@@ -1,4 +1,4 @@
-# Hey, 👋 My name is Suraj Gupta
+# Hey, 👋 My name is Suraj Gupta 
 
 <h3 align="left">Languages and Tools I use </h3>
 <p align="left"> 
@@ -23,6 +23,7 @@
 <a href="https://www.github.com/builtbysuraj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="32" /></a> 
 </p>
 
+[Resume](https://drive.google.com/file/d/1Qmzaxrq7hymDkSRUR7ozxGQonVCp1IzL/view?usp=sharing)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbysuraj&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=cobalt&hide_border=false&order=2" height="155" alt="languages graph"  />
