@@ -1,6 +1,6 @@
 # Hey, 👋 My name is Suraj Gupta 
 
-<h3 align="left">Languages and Tools I use </h3>
+<!-- <h3 align="left">Languages and Tools I use </h3> -->
 <!-- <p align="left"> 
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -15,9 +15,9 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- 
 </p> -->
 <!-- <p style="background-color: #1c1917">  -->
+ <h3 align="left">Socials</h3>
 <a href="https://www.linkedin.com/in/builtbysuraj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="32" /></a>
 <!-- <a href="https://tryhackme.com/p/ctfplayerhere" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/77146598/210207370-7a4bbd0d-ba47-4043-b825-63015067b9a6.svg" width="40" height="32" /></a> -->
 <a href="https://www.github.com/builtbysuraj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="32" /></a> 
