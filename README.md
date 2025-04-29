@@ -24,7 +24,6 @@
 <!-- <a href="https://tryhackme.com/p/ctfplayerhere" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/77146598/210207370-7a4bbd0d-ba47-4043-b825-63015067b9a6.svg" width="40" height="32" /></a> -->
 <!-- <a href="https://www.github.com/builtbysuraj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="32" /></a> -->
 <!-- </p> -->
-https://drive.google.com/file/d/1tXZXBzRr-3MfIErqmd3nUgIUtkIBCFRg/view?usp=sharing
  📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tXZXBzRr-3MfIErqmd3nUgIUtkIBCFRg/view?usp=sharing)
 <!-- 
 <div align="left">
