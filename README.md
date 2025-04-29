@@ -19,8 +19,8 @@
 <!-- <p style="background-color: #1c1917">  -->
 <!-- <h3 align="left">Socials</h3> -->
 <!-- <a href="https://www.linkedin.com/in/builtbysuraj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="32" /></a> -->
-<a href="https://linkedin.com/in/builtbysuraj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="builtbysuraj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/suraj-gupta" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suraj-gupta" height="30" width="40" /></a>
+<!--<a href="https://linkedin.com/in/builtbysuraj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="builtbysuraj" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/suraj-gupta" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suraj-gupta" height="30" width="40" /></a> -->
 <!-- <a href="https://tryhackme.com/p/ctfplayerhere" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/77146598/210207370-7a4bbd0d-ba47-4043-b825-63015067b9a6.svg" width="40" height="32" /></a> -->
 <!-- <a href="https://www.github.com/builtbysuraj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="32" /></a> -->
 <!-- </p> -->
