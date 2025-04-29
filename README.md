@@ -1,4 +1,4 @@
-# Hey, 👋 My name is Suraj Gupta 
+# Hey 👋 
 
 <!-- <h3 align="left">Languages and Tools I use </h3> -->
 <!-- <p align="left"> 
