@@ -24,8 +24,8 @@
 <!-- <a href="https://tryhackme.com/p/ctfplayerhere" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/77146598/210207370-7a4bbd0d-ba47-4043-b825-63015067b9a6.svg" width="40" height="32" /></a> -->
 <!-- <a href="https://www.github.com/builtbysuraj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="32" /></a> -->
 <!-- </p> -->
-
- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PXNbUP_SV3ypMR8ibfMatmLHyCMy0b3z/view?usp=sharing)
+https://drive.google.com/file/d/1tXZXBzRr-3MfIErqmd3nUgIUtkIBCFRg/view?usp=sharing
+ 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tXZXBzRr-3MfIErqmd3nUgIUtkIBCFRg/view?usp=sharing)
 <!-- 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbysuraj&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=cobalt&hide_border=false&order=2" height="155" alt="languages graph"  />
